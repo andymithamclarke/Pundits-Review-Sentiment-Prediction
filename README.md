@@ -21,12 +21,17 @@ Attempt 2 trains a Linear Regression sentiment model on a <a href="https://raw.g
 #### <a href="https://github.com/andyclarkemedia/Pundits-Review-Sentiment-Prediction/blob/master/Building_the_model.ipynb">Building the Model</a>
 Notebook used to build different models using BetSentiment data
 
+#### <a href="https://github.com/andyclarkemedia/Pundits-Review-Sentiment-Prediction/blob/master/Evaluating_Approaches.ipynb">Evaluating Approaches</a>
+Notebook used to compare accuracy scores & confusion matrix between 48 approaches to predicting sentiment. Visualisations included.
+
 #### <a href="https://github.com/andyclarkemedia/Pundits-Review-Sentiment-Prediction/blob/master/Preprocessing.ipynb">Preprocessing</a>
 Notebook used to clean and preprocess the training data
 
+#### <a href="https://github.com/andyclarkemedia/Pundits-Review-Sentiment-Prediction/blob/master/annotated_data.csv">Annotated Data</a>
+Manually annotated (sentiment & player target) set of 500 rows of sample data taken from <a href="https://www.mirror.co.uk/sport/football/match-reports/">The Mirror - Match Reports</a>
+
 #### <a href="https://github.com/andyclarkemedia/Pundits-Review-Sentiment-Prediction/blob/master/training_data.csv">Training Data</a>
 Training data used to train different model approaches in 'Building_the_model' - After preprocessing
-
 
 ## Associated Repositories
 
